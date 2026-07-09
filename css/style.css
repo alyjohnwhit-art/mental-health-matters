@@ -192,7 +192,7 @@ section {
 
   background:
     linear-gradient(rgba(15, 118, 110, 0.7), rgba(37, 99, 235, 0.75)),
-    url("/images/mental-health-bg.jpg");
+    url("images/mental-health-bg.jpg");
 
   background-size: cover;
 

@@ -1424,7 +1424,7 @@ footer div {
 
   background:
     linear-gradient(rgba(8, 40, 52, 0.75), rgba(15, 118, 110, 0.72)),
-    url("/images/about-bg.jpg");
+    url("images/about-bg.jpg");
 
   background-size: cover;
 
